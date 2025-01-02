@@ -1,1 +1,6 @@
+(Farei em inglês)
+
+ask (Tell me a number from 1 to 10)
+  store the result in "n" variable
+
 
