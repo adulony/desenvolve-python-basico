@@ -1,2 +1,3 @@
-# desenvolve-python-basico
-This repository is dedicated to basic python exercises.
+Projeto Desenvolve - Itabira
+Programação Básica com Python
+João Guilherme Reis Silva
