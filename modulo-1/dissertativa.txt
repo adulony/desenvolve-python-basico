@@ -1,6 +1,6 @@
-1. Perguntar ao usuário o segundo fator da multiplicação e armazenar. (O usuário poderá inserir um número de 0-9);
-2. Separar os algarismos do valor armazenado anteriormente;
-3. Subtrair 1 do primeiro algarismo do número armazenado na etapa 1 e armazenar o resultado;
-4. Subitrair o segundo algarismo do número armazenado na etapa 1 de 10 e armazenar o resultado;
-5. Juntar os resultados da etapa 3 e 4 lado a lado;
-6. Mostrar o resultado ao usuário.
+1. Perguntar ao usuário o segundo fator da multiplicação e armazenar. (O usuário poderá inserir um número de 0-9); #Entrada
+2. Separar os algarismos do valor armazenado anteriormente; #Processamento
+3. Subtrair 1 do primeiro algarismo do número armazenado na etapa 1 e armazenar o resultado; #Processamento
+4. Subitrair o segundo algarismo do número armazenado na etapa 1 de 10 e armazenar o resultado; #Processamento
+5. Juntar os resultados da etapa 3 e 4 lado a lado; #Processamento
+6. Mostrar o resultado ao usuário e encerrar o programa. #Fim
