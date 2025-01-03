@@ -2,5 +2,8 @@
 
 ask (Tell me a number from 1 to 10)
   store the result in "n" variable
+n-1=n1
+10-n=n2
+tell to user (n1n2)
 
 
